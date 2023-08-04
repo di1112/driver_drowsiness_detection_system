@@ -1,1 +1,3 @@
 # driver_drowsiness_detection_system
+-	Objective: Developed a computer vision-based system to detect driver drowsiness in real-time, using machine learning techniques.
+-	Description: Created a driver drowsiness detection system that analyzes facial expressions and eye movement to identify signs of drowsiness in drivers. Implemented a convolutional neural network (CNN) model trained on a large dataset (MRL eyes data set) of labeled images to accurately detect facial landmarks and monitor eye closure patterns. Integrated the model with a real-time video feed from a webcam and implemented an alert system to warn drivers when drowsiness is detected.
